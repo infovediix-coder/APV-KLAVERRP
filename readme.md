@@ -1,4 +1,4 @@
-# Wet en regelgeving Tedeapolis
+# Wet en regelgeving KlaverRP
 
 ## Development
 
@@ -31,5 +31,6 @@ source .venv/bin/activate
 **Overig**
 
 * Geen aanpassingen
+
 
 ```
